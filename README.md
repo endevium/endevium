@@ -4,6 +4,7 @@ IT Student at PHINMA University of Pangasinan | Full-stack Developer
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=endevium)
 
+## Technologies & Tools
 <div align="center">
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
