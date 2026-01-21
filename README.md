@@ -1,11 +1,10 @@
 ## About Me
 
 Hi there, I'm John Rasheed 👋. IT Student at PHINMA University of Pangasinan | Full-stack Developer
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=endevium)
 
 ## Contact
 📫 How to reach me: https://www.facebook.com/captain.art2005
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=endevium)
 
 ## Technologies & Tools
 <div align="center">
