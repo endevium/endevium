@@ -1,6 +1,7 @@
-## Hi there, I'm John Rasheed 👋
+## About Me
 
-IT Student at PHINMA University of Pangasinan | Full-stack Developer
+Hi there, I'm John Rasheed 👋. IT Student at PHINMA University of Pangasinan | Full-stack Developer
+📫 How to reach me: https://www.facebook.com/captain.art2005
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=endevium)
 
@@ -51,6 +52,9 @@ IT Student at PHINMA University of Pangasinan | Full-stack Developer
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" alt="Netbeans" title="Netbeans"/></code>
 </div>
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endevium)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **endevium/endevium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
