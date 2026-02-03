@@ -55,9 +55,6 @@ Hi there, I'm John Rasheed 👋. IT Student at PHINMA University of Pangasinan |
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" alt="Netbeans" title="Netbeans"/></code>
 </div>
 
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endevium)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **endevium/endevium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
