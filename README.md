@@ -56,7 +56,7 @@ Hi there, I'm John Rasheed 👋. IT Student at PHINMA University of Pangasinan |
 </div>
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endevium&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endevium)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **endevium/endevium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
